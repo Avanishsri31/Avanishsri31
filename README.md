@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/avanish66224549" target="blank"><img src="https://img.shields.io/twitter/follow/avanish66224549?logo=twitter&style=for-the-badge" alt="avanish66224549" /></a> </p>
 
-- 🔭 I’m currently working on **College Projects**
+- 🔭 I’m currently working on ** Blockchain Projects**
 
 - 🌱 I’m currently learning **MERN , blockchain , Web3**
 
