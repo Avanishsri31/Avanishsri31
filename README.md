@@ -1,7 +1,6 @@
 ![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
-<h1 align="center">
- <img src="https://github.com/Avanishsri31/Avanishsri31/blob/main/HELLO,%20MY%20NAME%20IS%20AVANISH%20(1).png?raw=true" />
-</h1>
+<br>
+[![An image of @avanishsri31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avanishsri31)](https://holopin.io/@avanishsri31)
 <h1 align="center">Hi 👋, I'm Avanish Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
