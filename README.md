@@ -33,6 +33,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avanishsri31&show_icons=true&locale=en" alt="avanishsri31" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Avanishsri31)](https://git.io/streak-stats)
+
 ## 🔗 Links
 [<img height="40" src="https://img.shields.io/badge/my_website-548?style=for-the-badge&logo=ko-fi&logoColor=white">](https://react-portfolio-avanish.netlify.app/)
  [<img height="40" src="https://img.shields.io/badge/codepen-000.svg?&style=for-the-badge&logo=codepen">](https://codepen.io/avanishsri31)
