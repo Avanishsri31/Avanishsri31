@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avanish66224549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avanish66224549" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avanish srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avanish srivastava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avanish-srivastava-533035203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avanish srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/avanishsri31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avanishsri31" height="30" width="40" /></a>
 </p>
 
@@ -33,5 +33,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avanishsri31&show_icons=true&locale=en" alt="avanishsri31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avanishsri31&" alt="avanishsri31" /></p>
+## 🔗 Links
+[<img height="40" src="https://img.shields.io/badge/my_website-548?style=for-the-badge&logo=ko-fi&logoColor=white">](https://react-portfolio-avanish.netlify.app/)
+ [<img height="40" src="https://img.shields.io/badge/codepen-000.svg?&style=for-the-badge&logo=codepen">](https://codepen.io/avanishsri31)
+ [<img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png">](https://www.hackerrank.com/Avanishsri_31)
+ [<img height="40" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png">](https://auth.geeksforgeeks.org/user/avanishsri31/practice)
+ [<img height="40" src="https://img.shields.io/badge/codechef-100.svg?&style=for-the-badge&logo=codechef">](https://www.codechef.com/users/avanishsri31)
+ [<img height="40" src="https://img.shields.io/badge/leetcode-111.svg?&style=for-the-badge&logo=leetcode">](https://leetcode.com/avanishsri_113/)
+
+</div>
+
+###  If you like❤️ my repository, hit the ⭐. 
 
