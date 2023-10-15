@@ -3,15 +3,17 @@
 [![An image of @avanishsri31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avanishsri31)](https://holopin.io/@avanishsri31)
 <h1 align="center">Hi 👋, I'm Avanish Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishsri31&label=Profile%20views&color=0e75b6&style=flat" alt="avanishsri31" /> </p>
 
 <p align="left"> <a href="https://twitter.com/avanish66224549" target="blank"><img src="https://img.shields.io/twitter/follow/avanish66224549?logo=twitter&style=for-the-badge" alt="avanish66224549" /></a> </p>
 
-- 🔭 I’m currently working on ** Blockchain Projects**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **MERN.**
 
-- 🌱 I’m currently learning **MERN , blockchain , Web3**
+- 🌱 I’m currently learning **Blockchain and Web3**
 
 - 👯 I’m looking to collaborate on **Web Development and Blockchain Projects**
 
