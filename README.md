@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
