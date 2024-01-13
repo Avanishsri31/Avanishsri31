@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Avanish Srivastava <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"> ! </h1>
-<img src="https://github.com/Avanishsri31/Avanishsri31/blob/main/Banner.png" />
+<img src="https://github.com/Avanishsri31/Avanishsri31/blob/main/Banner(Avanish).png" />
 
 
 
